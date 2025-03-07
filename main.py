@@ -13,3 +13,4 @@ def random_consecutive_numbers(target_sum):
 
 numbers = random_consecutive_numbers(108)
 print("Three random consecutive numbers that sum to 108:", numbers)
+input("\nPress Enter to Exit")
